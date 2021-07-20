@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android and XR Development**
 
-- 👨‍💻 All of my projects are available at [vrajdesai.tech](vrajdesai.tech)
+- 👨‍💻 All of my projects are available at [vrajdesai.tech](https://www.vrajdesai.tech)
 
 - 💬 Ask me about **Python, Android, Web Development**
 
