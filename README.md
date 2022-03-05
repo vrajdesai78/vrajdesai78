@@ -21,7 +21,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vrajdesai78&hide_border=true&theme=radical" />
 </p>
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vrajdesai78&hide_border=true&theme=redical)
 
 ---
 
