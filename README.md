@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [vrajdesai.tech](https://www.vrajdesai.tech)
 
-- 💬 Ask me about **Python, Android, XR Development**
+- 💬 Ask me about **Python, Android, Blockchain Development**
 
 - 📫 How to reach me **vrajdesai78@gmail.com**
 
