@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajdesai78&label=Profile%20views&color=0e75b6&style=flat" alt="vrajdesai78" /> </p>
 
-- 🌱 I’m currently learning **Android and Blockchain Development**
+- 🌱 I’m **Blockchain Developer** and build projects on multiple chains like **Polygon, Ethereum, and Solana**. 
 
 - 👨‍💻 All of my projects are available at [vrajdesai.tech](https://www.vrajdesai.tech)
 
