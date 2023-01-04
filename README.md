@@ -5,7 +5,7 @@
 
 - 🌱 I’m **Blockchain Developer** and build projects on multiple chains like **Polygon, Ethereum, and Solana**. 
 
-- 👨‍💻 All of my projects are available at [vrajdesai.tech](https://www.vrajdesai.tech)
+- 👨‍💻 All of my projects are available at [vrajdesai.netlify.com](https://www.vrajdesai.netlify.com)
 
 - 💬 Ask me about **Web, Android, Blockchain Development**
 
