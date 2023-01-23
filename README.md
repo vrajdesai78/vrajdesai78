@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajdesai78&label=Profile%20views&color=0e75b6&style=flat" alt="vrajdesai78" /> </p>
 
-- 🌱 I’m **Blockchain Developer** and build projects on multiple chains like **Polygon, Ethereum, and Solana**. 
+- 🌱 I’m a full-stack **Blockchain Developer** and build projects on multiple chains like **Polygon, Ethereum, and Solana**. 
+
+- 💻 I am GitHub Campus Expert 🚩 and Postman Student Leader 
+
+- 🌞 I am an open-source contributor and was selected for the Google Summer of Code '22 @Oppia
 
 - 👨‍💻 All of my projects are available at [vrajdesai.netlify.com](https://www.vrajdesai.netlify.com)
 
