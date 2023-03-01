@@ -9,8 +9,6 @@
 
 🌞 I am an open-source contributor and was selected for the Google Summer of Code '22 @Oppia
 
-👨‍💻 All of my projects are available at [vrajdesai.netlify.com](https://www.vrajdesai.netlify.com)
-
 💬 Ask me about **Web, Android, Blockchain Development**
 
 📫 How to reach me **vrajdesai78@gmail.com**
