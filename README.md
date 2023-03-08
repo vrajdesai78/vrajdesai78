@@ -73,7 +73,7 @@ I am a **Blockend Developer** who loves to build blockchain based projects. Till
   
 </details>
 
-## 🏆 Achievements 
+## Achievements 🏆 
 
 - Winner of 6+ MLH Hackathons till now [Devpost](https://devpost.com/vrajdesai78)
 - Winner of 4+ Web3 Hackathons [Devfolio](https://devfolio.com/@vrajdesai78)
