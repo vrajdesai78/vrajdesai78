@@ -3,17 +3,54 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajdesai78&label=Profile%20views&color=0e75b6&style=flat" alt="vrajdesai78" /> </p>
 
-🌱 I’m a full-stack **Blockchain Developer** and build projects on multiple chains like **Polygon, Ethereum, and Solana**. 
+## About Me 🚀
 
-💻 I am GitHub Campus Expert 🚩 and Postman Student Leader 
+I am a **Blockend Developer** who loves to build blockchain based projects. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Android Development using Kotlin**, **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and many more such events. 
 
-🌞 I am an open-source contributor and was selected for the Google Summer of Code '22 @Oppia
+## Experience ⭐️
 
-💬 Ask me about **Web, Android, Blockchain Development**
+<details>
+  <summary> Contributor in Google Summer of Code'22 @Oppia </summary>
+    <br>
+    <li> Worked on accessibility improvements in <a href ="https://github.com/oppia/oppia-android/pulls?q=is%3Apr+is%3Aclosed+author%3Avrajdesai78"> Oppia's Android application </a> </li>
+    <li> Improved overall app's accessibility such that UX is made consistent for both sighted and non-sighted users. </li>
+  </details> 
+  
+<details>
+  <summary> Mentor in Winter of Blockchain by <a href="https://hyperedge.so/wob">Hyperedge</a> </summary>
+    <br>
+    <li> Helping contributors to contribute to various open source projects based on blockchain.  </li>
+    <li> I am a mentor for Solana as well as Ethereum development.</li>
+  </details> 
+ 
+<details>
+  <summary> Android Trainer at inMovidu's Technology </summary>
+  <br>
+    <li> Worked as a freelance Android trainer where I made video tutorials to get started with Android Development using Kotlin. </li>
+  <li> Also, took live classes on building end-to-end Android application. </li>
+</details>
 
-📫 How to reach me **vrajdesai78@gmail.com**
+## Positions of Reponsibility
 
-### Projects 
+<details>
+  <summary> GitHub Campus Expert 🚩 </summary> 
+  <br>
+  Helping nearby community leaders to build their community and evangelizing about Git, GitHub and Open source. 
+</details>
+
+<details>
+  <summary> Postman Student Leader </summary>
+  <br>
+  Evangelising about APIs and Postman in my local community by organizing events. 
+</details>
+
+<details>
+  <summary> Pynt Ambassador </summary>
+  <br>
+  Promoting API security by evangelizinng about Pynt which is API security testing tool. 
+</details>
+
+## Projects 🧑‍💻
 
 <details>
   <summary>Projects which I have build during hackathon or for learning</summary>
@@ -41,9 +78,12 @@
 - Winner of 6+ MLH Hackathons till now [Devpost](https://devpost.com/vrajdesai78)
 - Winner of 4+ Web3 Hackathons [Devfolio](https://devfolio.com/@vrajdesai78)
 - Invited as a speaker in Web3Conf, Goa where I was the youngest speaker. [Talk Video](https://youtu.be/q6kF9cPn7vs)
-- Selected as a contributor in Google Summer of Code'22 @Oppia [My Contributions](https://github.com/oppia/oppia-android/pulls?q=is%3Apr+is%3Aclosed+author%3Avrajdesai78)
 - Delivered 10+ talks including both IRL and online in Hackathons, Conferences, and Meet-ups. 
 - Mentored and Judged in 5+ Hackathons. 
+- Published a [Research Paper](https://soe.rku.ac.in/conferences/data/18_1499_ICSET%202022.pdf) on **"Breast Cancer Classification using fine-tuned
+Convolutional Neural Network"** in an International Conference 
+
+[![Vraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vrajdesai78&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧑🏻‍💻 Tools & Platform
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
