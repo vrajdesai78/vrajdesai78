@@ -80,7 +80,7 @@ I am a **Blockend Developer** who loves to build blockchain based projects. Till
 - Invited as a speaker in Web3Conf, Goa where I was the youngest speaker. [Talk Video](https://youtu.be/q6kF9cPn7vs)
 - Delivered 10+ talks including both IRL and online in Hackathons, Conferences, and Meet-ups. 
 - Mentored and Judged in 5+ Hackathons. 
-- Published a [Research Paper](https://soe.rku.ac.in/conferences/data/18_1499_ICSET%202022.pdf) on **"Breast Cancer Classification using fine-tuned
+- Co-authored a [Research Paper](https://soe.rku.ac.in/conferences/data/18_1499_ICSET%202022.pdf) on **"Breast Cancer Classification using fine-tuned
 Convolutional Neural Network"** in an International Conference 
 
 [![Vraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vrajdesai78&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
