@@ -106,5 +106,5 @@ Convolutional Neural Network"** in an International Conference
 ---
 
 <p align="center">
-   <img src="https://github.com/vrajdesai78/vrajdesai78/blob/output/github-contribution-grid-snake.gif" alt="snake">
+   <img src="https://github.com/vrajdesai78/vrajdesai78/blob/output/snake.svg" alt="Snake Animation">
 </p>
