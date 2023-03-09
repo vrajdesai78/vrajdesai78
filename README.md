@@ -54,7 +54,7 @@ I am a **Blockend Developer** who loves to build blockchain based projects. Till
 
 <details>
   <summary>Projects which I have build during hackathon or for learning</summary>
-  
+
   | Name | Description | Deployed at |
 | --- | --- | --- |
 | [Buy-Me-A-Glass](https://github.com/vrajdesai78/buy-me-a-glass)| Buy-me-a-coffee alternative built on Solana. All of the data will be stored on-chain and users can send SOL directly to the creator of the page.  | [Vercel Link](https://buy-me-a-glass.vercel.app/) |
