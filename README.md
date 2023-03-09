@@ -30,7 +30,7 @@ I am a **Blockend Developer** who loves to build blockchain based projects. Till
   <li> Also, took live classes on building end-to-end Android application. </li>
 </details>
 
-## Positions of Reponsibility
+## Positions of Reponsibility 🤝
 
 <details>
   <summary> GitHub Campus Expert 🚩 </summary> 
