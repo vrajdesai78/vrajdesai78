@@ -93,7 +93,7 @@ Convolutional Neural Network"** in an International Conference
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vrajdesai78&hide_border=true&theme=radical" />
 </p>
 
-<h2> Reach out to me on< 📫 </h2>
+<h2> Reach out to me on 📫 </h2>
 
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/vrajdesai78"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
