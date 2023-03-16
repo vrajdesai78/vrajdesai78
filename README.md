@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vraj Desai</h1>
 <h3 align="center">A passionate programmer who loves to convert ideas into code 🧑‍💻</h3>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=vrajdesai78&icon=6&color=6" alt="vrajdesai78" /> </p>
-
 ## About Me 🚀
 
 I am a **Blockend Developer** who loves to build blockchain based projects. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Android Development using Kotlin**, **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
