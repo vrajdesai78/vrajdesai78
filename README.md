@@ -74,7 +74,7 @@ I am a **Blockend Developer** who loves to build blockchain based projects. Till
 ## Achievements 🏆 
 
 - Winner of 6+ MLH Hackathons till now [Devpost](https://devpost.com/vrajdesai78)
-- Winner of 5+ Web3 Hackathons [Devfolio](https://devfolio.com/@vrajdesai78)
+- Winner of 8+ Web3 Hackathons [Devfolio](https://devfolio.com/@vrajdesai78)
 - Delivered 10+ talks including both IRL and online in Hackathons, Conferences, and Meet-ups including [Web3Conf India](https://web3confindia.xyz/) where I was the youngest speaker [Talk Recording](https://youtu.be/q6kF9cPn7vs)
 - Mentored and Judged in 10+ Hackathons. 
 - Co-authored a [Research Paper](https://soe.rku.ac.in/conferences/data/18_1499_ICSET%202022.pdf) on **"Breast Cancer Classification using fine-tuned
