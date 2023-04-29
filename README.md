@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I am a **Blockend Developer** who loves to build blockchain based projects. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Android Development using Kotlin**, **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
+I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Android Development using Kotlin**, **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
 
 ## Experience ⭐️
 
