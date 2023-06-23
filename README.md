@@ -3,9 +3,17 @@
 
 ## About Me 🚀
 
-I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Android Development using Kotlin**, **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
+I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
 
 ## Experience ⭐️
+
+  
+<details>
+  <summary> Working as Developer Advocate <a href="https://huddle01.com">Huddle01</a> </summary>
+    <br>
+    <li> Building developer community and helping developers to build on Huddle01.  </li>
+    <li> Working as a bridge between Development, Business Development and Marketing team. </li>
+  </details> 
 
 <details>
   <summary> Contributor in Google Summer of Code'22 @Oppia </summary>
@@ -13,20 +21,6 @@ I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains**
     <li> Worked on accessibility improvements in <a href ="https://github.com/oppia/oppia-android/pulls?q=is%3Apr+is%3Aclosed+author%3Avrajdesai78"> Oppia's Android application </a> </li>
     <li> Improved overall app's accessibility such that UX is made consistent for both sighted and non-sighted users. </li>
   </details> 
-  
-<details>
-  <summary> Mentor in Winter of Blockchain by <a href="https://hyperedge.so/wob">Hyperedge</a> </summary>
-    <br>
-    <li> Helping contributors to contribute to various open source projects based on blockchain.  </li>
-    <li> I am a mentor for Solana as well as Ethereum development.</li>
-  </details> 
- 
-<details>
-  <summary> Android Trainer at inMovidu's Technology </summary>
-  <br>
-    <li> Worked as a freelance Android trainer where I made video tutorials to get started with Android Development using Kotlin. </li>
-  <li> Also, took live classes on building end-to-end Android application. </li>
-</details>
 
 ## Positions of Reponsibility 🤝
 
@@ -37,15 +31,9 @@ I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains**
 </details>
 
 <details>
-  <summary> Postman Student Leader </summary>
+  <summary> Co-Mage of Polygon Guild Vadodara 💜 </summary>
   <br>
-  Evangelising about APIs and Postman in my local community by organizing events. 
-</details>
-
-<details>
-  <summary> Pynt Ambassador </summary>
-  <br>
-  Promoting API security by evangelizinng about Pynt which is API security testing tool. 
+  Organize web3 focused events in Vadodara region to onboard new developers into web3 ecosystem. 
 </details>
 
 ## Projects 🧑‍💻
