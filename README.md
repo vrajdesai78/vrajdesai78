@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana**. Apart from **Blockchain**, I know **Backend Development using Python and Node JS**, **AI/ML**, and ofcouse a bit of **Frontend Development using Next JS**. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
+I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana** and **Starknet**. I can code anything with typescript and well versed with `Next JS`. I also have experience in working mobile development using `React Native`. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
 
 ## Experience ⭐️
 
@@ -31,9 +31,9 @@ I am a **DevRel** @Huddle01. Till now I have worked with multiple **EVM Chains**
 </details>
 
 <details>
-  <summary> Co-Mage of Polygon Guild Vadodara 💜 </summary>
+  <summary> Member at Superteam | Farcaster Builders of India (FBI) | Developer DAO </summary>
   <br>
-  Organize web3 focused events in Vadodara region to onboard new developers into web3 ecosystem. 
+  Actively contribute by building projects, writing articles and help them in organising events.
 </details>
 
 ## Projects 🧑‍💻
