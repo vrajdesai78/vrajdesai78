@@ -11,8 +11,11 @@ I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm 
 <details>
   <summary> Working as Developer Advocate <a href="https://huddle01.com">Huddle01</a> </summary>
     <br>
-    <li> Building developer community and helping developers to build on Huddle01.  </li>
-    <li> Working as a bridge between Development, Business Development and Marketing team. </li>
+<li>Wrote documentation, blogs, guides and built sample applications to improve developer experience.</li> 
+<li>Contributed in building and improving SDKs and core product development.</li>
+<li>Fostered a developer community and provided technical support, resulting in 200+ projects built on Huddle01.</li>
+<li>Built FarHouse - an Audio Spaces client on Farcaster with in-app tipping which gained 30k+ active users.</li>
+<li>Worked collaboratively with the development, product and marketing team to grow the Huddle01 ecosystem.</li>
   </details> 
 
 <details>
