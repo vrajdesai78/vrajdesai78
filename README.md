@@ -9,7 +9,7 @@ I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm 
 
   
 <details>
-  <summary> Working as Developer Advocate <a href="https://huddle01.com">Huddle01</a> </summary>
+  <summary> Worked as Developer Advocate <a href="https://huddle01.com">Huddle01 for 1.5 Years </a> </summary>
     <br>
 <li>Wrote documentation, blogs, guides and built sample applications to improve developer experience.</li> 
 <li>Contributed in building and improving SDKs and core product development.</li>
