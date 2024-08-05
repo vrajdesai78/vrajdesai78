@@ -46,11 +46,10 @@ I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm 
 
   | Name | Description | Live Link |
 | --- | --- | --- |
-| [Farview.id](https://github.com/vrajdesai78/farview.id)| Farview.id provides a personalised page for very farcaster user where users can see their FC & on-chain activity. | [Check Live](https://farview.id) |
-| BuyTheDip | Smallcase or Bloomberg Terminal on Solana. Diversify your crypto investment by sectors. | [Check Live](https://buythedip.trade) |
-| [CCTP Frame](https://github.com/vrajdesai78/wormframe-website) | Platform and developer tooling to create bridging frames powered by Wormhole.  | [Check Live](https://cctpframe.xyz) |
-| [Dripcaster](https://github.com/Open-Sorcerer/dripcaster) | Platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames. | [Check Live](https://dripcaster.xyz) |
-| [TrustChain](https://github.com/rkmonarch/TrustChain) | Prove the provenance on-chain of any product securely. Zero-knowledge proof is used to verify manufacturer and distributor’s identity.  | [Vercel Link](https://trust-chain.vercel.app/) |
+| [Farview.id](https://github.com/vrajdesai78/farview.id)| Farview.id provides a personalised page for very farcaster user where users can see their FC & on-chain activity. | [Link](https://farview.id) |
+| BuyTheDip | Smallcase or Bloomberg Terminal on Solana. Diversify your crypto investment by sectors. | [Link](https://buythedip.trade) |
+| [CCTP Frame](https://github.com/vrajdesai78/wormframe-website) | Platform and developer tooling to create bridging frames powered by Wormhole.  | [Link](https://cctpframe.xyz) |
+| [Dripcaster](https://github.com/Open-Sorcerer/dripcaster) | Platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames. | [Link](https://dripcaster.xyz) |
 
 </details>
 
