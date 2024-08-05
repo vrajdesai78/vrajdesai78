@@ -41,32 +41,20 @@ I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm 
 <details>
   <summary>Projects which I have build during hackathon or for learning</summary>
 
-  | Name | Description | Deployed at |
+  | Name | Description | Live Link |
 | --- | --- | --- |
-| [Buy-Me-A-Glass](https://github.com/vrajdesai78/buy-me-a-glass)| Buy-me-a-coffee alternative built on Solana. All of the data will be stored on-chain and users can send SOL directly to the creator of the page.  | [Vercel Link](https://buy-me-a-glass.vercel.app/) |
-| [FitQuest](https://github.com/neel-ds/FitQuest) | Step-to-Earn platform on Polygon, where users will earn Super tokens by reaching their fitness goals.  | [Vercel Link](https://fitquest.vercel.app/) |
-| [TrustID](https://github.com/neel-ds/TrustID) | It creates DID based on user's Adhaar Card using Zero-knowledge proof. This DID can further used to add real-estate data and transfer ownership on-chain. | [Vercel Link](https://trustid.vercel.app/) |
+| [Farview.id](https://github.com/vrajdesai78/farview.id)| Farview.id provides a personalised page for very farcaster user where users can see their FC & on-chain activity. | [Check Live](https://farview.id) |
+| BuyTheDip | Smallcase or Bloomberg Terminal on Solana. Diversify your crypto investment by sectors. | [Check Live](https://buythedip.trade) |
+| [CCTP Frame](https://github.com/vrajdesai78/wormframe-website) | Platform and developer tooling to create bridging frames powered by Wormhole.  | [Check Live](https://cctpframe.xyz) |
+| [Dripcaster](https://github.com/Open-Sorcerer/dripcaster) | Platform for creators to sell digital products (videos, e-books, images) via Farcaster Frames. | [Check Live](https://dripcaster.xyz) |
 | [TrustChain](https://github.com/rkmonarch/TrustChain) | Prove the provenance on-chain of any product securely. Zero-knowledge proof is used to verify manufacturer and distributor’s identity.  | [Vercel Link](https://trust-chain.vercel.app/) |
-| [Poly Funds](https://github.com/vrajdesai78/poly-funds) | Create on-chain profile, and access it using ENS or mint custom your own ENS on Polygon Network.  | [Vercel Link](https://poly-funds.vercel.app/) |
-| [Ocean Dive](https://github.com/vrajdesai78/Ocean-Dive) | Explore the layers inside the sea and learn about the variety of species and sea creatures.  | N/A |
-| [Be-A-Hope](https://github.com/vrajdesai78/Be-A-Hope) | Crowdfunding platform for NGO’s built on Tezos Blockchain.  | [Vercel Link](https://be-a-hope.vercel.app/) |
-| [Truthify](https://github.com/vrajdesai78/Truthify) | Android application used to find counterfeit product. Used AutoML to train ML model with counterfeit images.  | N/A |
-| [Grocery-Store-Alan](https://github.com/vrajdesai78/Grocery-Store-Alan) | Grocery Store application build with Alan Voice assistant. Voice assistant will perform actions in the app based on voice commands.  | N/A |
-| [DementAI](https://github.com/vrajdesai78/SF-Hacks) | Dementia Predication platform build using ML and help patients to improve their cognitive impairment by playing games.  | N/A |
-| [Music Sapien](https://github.com/ishitaojha/music-sapien) | Music platform which recommends music based on the person's personality. Personality can be identified by answering few questions. | N/A |
-| [HopIn](https://github.com/vrajdesai78/HopIn) | Online meeting platform with a live transcript such that if anyone hopin in-between they can see transcript of previous conversation as well. | N/A |
-| [Tokenizer](https://github.com/vrajdesai78/Tokenizer) | Real-time appointment booking android application where users can easily book appointment of their nearby places and verify the appointment by showing QR code. | [Amazon Store Link](https://www.amazon.com/dp/B097YRFSLP/ref=apps_sf_sta) |
-  
+
 </details>
 
 ## Achievements 🏆 
 
-- Winner of 6+ MLH Hackathons till now [Devpost](https://devpost.com/vrajdesai78)
-- Winner of 8+ Web3 Hackathons [Devfolio](https://devfolio.com/@vrajdesai78)
-- Delivered 10+ talks including both IRL and online in Hackathons, Conferences, and Meet-ups including [Web3Conf India](https://web3confindia.xyz/) where I was the youngest speaker [Talk Recording](https://youtu.be/q6kF9cPn7vs)
-- Mentored and Judged in 10+ Hackathons. 
-- Co-authored a [Research Paper](https://soe.rku.ac.in/conferences/data/18_1499_ICSET%202022.pdf) on **"Breast Cancer Classification using fine-tuned
-Convolutional Neural Network"** in an International Conference 
+- Won of 25+ Web3 Hackathons till now.
+- Mentored and Judged in 20+ Hackathons. 
 
 [![Vraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vrajdesai78&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
