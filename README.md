@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraj Desai</h1>
 <h3 align="center">A passionate programmer who loves to convert ideas into code 🧑‍💻</h3>
 
-## About Me 🚀
+## About Me 🚀 
 
 I am a Web3 builder have worked with multiple **EVM Chains** as well as non-evm chains such as **Solana** and **Starknet**. I can code anything with typescript and well versed with `Next JS`. I also have experience in working mobile development using `React Native`. Apart from development, I love to hangout and engage in community events such as hackathons, conferences, meet-ups and more such events. 
 
